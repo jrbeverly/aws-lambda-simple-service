@@ -1,0 +1,24 @@
+{
+  "name": "run-for-simple-sample",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrbeverly/aws-lambda-simple-service.git"
+  },
+  "keywords": [],
+  "author": "jrbeverly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrbeverly/aws-lambda-simple-service/issues"
+  },
+  "homepage": "https://github.com/jrbeverly/aws-lambda-simple-service#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "app": "file:../app"
+  }
+}
