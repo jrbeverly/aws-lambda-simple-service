@@ -1,23 +1,22 @@
 {
-  "name": "lambda-as-app",
+  "name": "lambda-for-simple-sample",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "lambda.js",
   "scripts": {
     "remove": "sls remove",
     "deploy": "sls deploy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrbeverly/lambda-as-app.git"
+    "url": "git+https://github.com/jrbeverly/aws-lambda-simple-service.git"
   },
   "keywords": [],
   "author": "jrbeverly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jrbeverly/lambda-as-app/issues"
+    "url": "https://github.com/jrbeverly/aws-lambda-simple-service/issues"
   },
-  "homepage": "https://github.com/jrbeverly/lambda-as-app#readme",
+  "homepage": "https://github.com/jrbeverly/aws-lambda-simple-service#readme",
   "dependencies": {
     "serverless-http": "2.5.0",
     "app": "file:../app"
