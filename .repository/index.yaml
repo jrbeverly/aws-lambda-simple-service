@@ -1,0 +1,11 @@
+slug: aws-lambda-simple-service
+description: Experimenting with lambda as on-demand app
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2020
+topics: []
